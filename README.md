@@ -20,6 +20,3 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=aroddev&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/aroddev/)
-- [Bluesky](https://bsky.app/profile/arod-ofc.bsky.social)
